@@ -52,6 +52,7 @@
         {{/summary}}
 
         {{#description}}
+				feedId:62658447643578368+userId:58041017027208192
         <content type="html" src="{{link}}">{{description}}</content>
         {{/description}}
         
